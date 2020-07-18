@@ -1,2 +1,3 @@
-# personal-site
-A django web app hosted on AWS
+# django-blog
+
+A blog site using django. Built based on the RealPython tutorial.
